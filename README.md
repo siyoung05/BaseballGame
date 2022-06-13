@@ -29,6 +29,6 @@
 ![image](https://user-images.githubusercontent.com/93521099/173289565-7de4d6a4-c243-47b5-98ab-08b2ce37e636.png)
 #### ● args(아규먼트)에 값이 있을 경우 그 값으로 난수값을 대체.
 #### ● args(아규먼트)에 값이 없을 경우 난수생성.
-#### ● 게임이 끝난 후 반환된 count값을 변수 result에 저장.
+#### ● 게임이 끝난 후 반환된 count값이 result에 저장.
 #### ● result값에 따라 등급이 정해짐.("최상", "보통", "하", "최하")
 ![image](https://user-images.githubusercontent.com/93521099/173284875-2ec11d3b-d0f9-4074-a44d-b8d003ecc6f0.png)
