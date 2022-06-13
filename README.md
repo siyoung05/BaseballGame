@@ -15,7 +15,8 @@
 
 ![image](https://user-images.githubusercontent.com/93521099/173283498-74dc20b5-5d02-442a-a50a-fa34bd7688eb.png)
 
-#### ● 넘겨받은 값과 사용자가 입력한값을 저장할 배열을 만들어줌.
+#### ● 넘겨받은 값을 배열에 저장.
+#### ● 사용자가 입력한 값을 저장할 배열 생성.
 ![image](https://user-images.githubusercontent.com/93521099/173283733-9be7abb0-c907-489b-9e95-70dcaaf48a6f.png)
 #### ● 중첩 do ~ while문을 이용하여 사용자의 입력값을 받음.
 ![image](https://user-images.githubusercontent.com/93521099/173283859-3b626bd9-f124-42bd-a2fc-88fe719e2661.png)
