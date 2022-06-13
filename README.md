@@ -25,8 +25,8 @@
 ![image](https://user-images.githubusercontent.com/93521099/173284433-a65396b3-cb5c-4055-8f16-82ef80727aef.png)
 #### ● 4번, 5번 규칙처럼 입력 값과 난수 값을 비교.
 #### ● 3개다 맞췄을 경우 두 번째 do~while문 종료.
-#### ● count값을 반환해줌.
-![image](https://user-images.githubusercontent.com/93521099/173284520-0112aa8e-2ce4-4320-b09d-18ee44d0c55c.png)
+#### ● 몇번만에 맞췄는지 확인을 위해 count값을 반환해줌.
+![image](https://user-images.githubusercontent.com/93521099/173289565-7de4d6a4-c243-47b5-98ab-08b2ce37e636.png)
 #### ● args(아규먼트)에 값이 있을 경우 그 값으로 난수값을 대체.
 #### ● args(아규먼트)에 값이 없을 경우 난수생성.
 #### ● 게임이 끝난 후 반환된 count값을 변수 result에 저장.
