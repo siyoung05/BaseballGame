@@ -32,6 +32,3 @@
 #### ● 게임이 끝난 후 반환된 count값을 변수 result에 저장.
 #### ● result값에 따라 등급이 정해짐.("최상", "보통", "하", "최하")
 ![image](https://user-images.githubusercontent.com/93521099/173284875-2ec11d3b-d0f9-4074-a44d-b8d003ecc6f0.png)
-
-### 아쉬운 점
-#### if문을 여러개를 사용하여 헀기 때문에 코드 간결화가 잘 되있지 않은부분이 아쉬웠다.
